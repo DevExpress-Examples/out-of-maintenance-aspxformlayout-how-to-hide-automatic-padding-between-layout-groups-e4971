@@ -4,6 +4,9 @@
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 <!-- default file list end -->
 # ASPxFormLayout -  How to hide automatic padding between layout groups
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4971)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to hide automatic padding between layout groups in the ASPxFormLayout. To overcome this, redefine the "dxflGroupBox" or "dxflGroupBox_[Theme_name]" style in the following manner:</p>
