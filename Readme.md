@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # ASPxFormLayout -  How to hide automatic padding between layout groups
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4971)**
+**[[Run Online]](https://codecentral.devexpress.com/e4971/)**
 <!-- run online end -->
 
 
